@@ -20,7 +20,6 @@ public class MainApp {
 	
 	private void run() {
 		System.out.println("App is running");
-		
 	}
 
 }
