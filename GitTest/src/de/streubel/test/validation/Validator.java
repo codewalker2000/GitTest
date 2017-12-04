@@ -9,4 +9,7 @@ package de.streubel.test.validation;
  */
 public class Validator {
 
+	public void validate() {
+		
+	}
 }
