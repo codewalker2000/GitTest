@@ -10,7 +10,7 @@ package de.streubel.test.validation;
 public class Validator {
 
 	public void validate() {
-		
+		System.out.print("starts validating the app");
 	}
 	
 	public boolean isValid(Object o) {
