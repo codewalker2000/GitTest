@@ -15,6 +15,5 @@ public class Validator {
 	
 	public boolean isValid(Object o) {
 		return false;
-		
 	}
 }
