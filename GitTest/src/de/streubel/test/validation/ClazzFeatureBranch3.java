@@ -1,5 +1,7 @@
 package de.streubel.test.validation;
 
-public class ClazzFeatureBranch3 {
+import java.math.BigDecimal;
 
+public class ClazzFeatureBranch3 {
+	private BigDecimal dec; 
 }
